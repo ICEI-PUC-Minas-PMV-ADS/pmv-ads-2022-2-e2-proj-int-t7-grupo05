@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Luísa Valadares Vieira
 * Gabriele
-* Anderson
+* Anderson Do Carmo Ramos
 * Nome completo do aluno 4
 
 ## Orientador
