@@ -2,7 +2,7 @@
 A preocupação estética sempre permeou a existência humana, mesmo que de maneira diferente de cultura para cultura e não poderia ser diferente com o Brasil, terceiro maior mercado de beleza do mundo. Com o ritmo frenético do capitalismo, o imediatismo e a necessidade de ter tudo a um clique, grande parte desse mercado se encontra no universo digital. O uso intenso das redes sociais amplifica e democratiza o acesso a conteúdos de moda e beleza de modo que homens e mulheres são cada vez mais influenciados por tendências e preocupações estéticas
 
 	A indústria da beleza é uma das maiores do mundo, chegando a movimentar 29,62 bilhões de dólares em 2019 apenas no Brasil, segundo uma pesquisa realizada pelo Euromonitor International. Com a crescente tecnológica, é natural que as empresas apostem cada vez mais na digitalização, investindo em sua presença nas redes sociais, apps de beleza e até mesmo inteligência artificial.
-		
+	
 	Sendo assim, a ideia de criar uma aplicação onde o usuário tem acesso a diversos tipos de estabelecimentos estéticos, com as mais diversas tendências e estilos, se mostra interessante para suprir uma carência de um público que cada vez mais procura serviços através da internet.
 	
 
