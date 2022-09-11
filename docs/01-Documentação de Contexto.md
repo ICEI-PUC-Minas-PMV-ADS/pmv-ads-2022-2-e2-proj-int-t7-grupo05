@@ -1,28 +1,21 @@
 # Introdução
+A preocupação estética sempre permeou a existência humana, mesmo que de maneira diferente de cultura para cultura e não poderia ser diferente com o Brasil, terceiro maior mercado de beleza do mundo. Com o ritmo frenético do capitalismo, o imediatismo e a necessidade de ter tudo a um clique, grande parte desse mercado se encontra no universo digital. O uso intenso das redes sociais amplifica e democratiza o acesso a conteúdos de moda e beleza de modo que homens e mulheres são cada vez mais influenciados por tendências e preocupações estéticas
+	A indústria da beleza é uma das maiores do mundo, chegando a movimentar 29,62 bilhões de dólares em 2019 apenas no Brasil, segundo uma pesquisa realizada pelo Euromonitor International. Com a crescente tecnológica, é natural que as empresas apostem cada vez mais na digitalização, investindo em sua presença nas redes sociais, apps de beleza e até mesmo inteligência artificial.
+	Sendo assim, a ideia de criar uma aplicação onde o usuário tem acesso a diversos tipos de estabelecimentos estéticos, com as mais diversas tendências e estilos, se mostra interessante para suprir uma carência de um público que cada vez mais procura serviços através da internet.
+	
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O problema que se busca resolver é o de facilitar o acesso do cliente ao prestador de serviços estéticos, de modo que tanto os usuários consigam marcar atendimentos com mais agilidade quanto os estabelecimentos consigam atingir um público maior.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
+ O objetivo principal deste projeto é criar uma aplicação que conecte de maneira mais simples e eficiente clientes e profisisonais de beleza e salões de beleza.
+ Como objetivos específicos, podemos ressaltar:
+    Facilitar a marcação de procedimentos estéticos
+    Integrar diversos prestadores de serviços para que o cliente tenha mais opções de escolha
+    Permitir um sistema de avaliações por parte dos clientes em relação aos prestadores de serviço
+    
 ## Justificativa
 
 A proposta do site se aplica para o usuário que irá contratar o serviço, fornecendo agilidade, facilidade para marcar um corte de cabelo em qualquer lugar, sem a necessidade de ser feito em algum horário específico. Além disso, o dia a dia das pessoas está cada vez mais corrido, e aplicações com essa resolvem esse problema, tendo em vista que você pode analisar a agenda do profissional que irá realizar o serviço e sincronizar o melhor horário que se encaixe na agenda dos dois.
