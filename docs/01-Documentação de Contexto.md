@@ -14,8 +14,11 @@ O problema que se busca resolver é o de facilitar o acesso do cliente ao presta
 
  O objetivo principal deste projeto é criar uma aplicação que conecte de maneira mais simples e eficiente clientes e profisisonais de beleza e salões de beleza.
  Como objetivos específicos, podemos ressaltar:
+ 
     Facilitar a marcação de procedimentos estéticos
+    
     Integrar diversos prestadores de serviços para que o cliente tenha mais opções de escolha
+    
     Permitir um sistema de avaliações por parte dos clientes em relação aos prestadores de serviço
     
 ## Justificativa
