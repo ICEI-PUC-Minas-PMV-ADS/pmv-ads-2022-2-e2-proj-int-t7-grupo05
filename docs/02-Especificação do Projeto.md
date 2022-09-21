@@ -42,7 +42,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre um estabelecimento | ALTA | 
 |RF-002| Permitir que o usuário cadastre os serviços prestados pelo seu estabelecimento | ALTA | 
 |RF-003| Permitir que o usuário gerencie a agenda de seu estabelecimento | ALTA |
-
 |RF-004| Permitir que o usuário se cadastre como dono de estabelecimento ou cliente | ALTA | 
 |RF-005| Permitir que o usuário veja a agenda de um estabelecimento de acordo com um serviço | ALTA | 
 |RF-006| Permitir que o usuário realize agendamento de um serviço | ALTA | 
